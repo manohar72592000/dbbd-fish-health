@@ -10,7 +10,7 @@ red disease / EUS) is trained directly on images compressed by a deterministic b
 (100%, 25% and 6.25% of the measurements), five-fold fish-level cross-validation, an input-size control,
 and a leave-one-disease-out test of abnormality scores.
 
-## Data
+## Data (Note: Everything provided here is based how we worked in steps for reaching conclusions)
 
 Download the two public datasets and note their folders:
 
