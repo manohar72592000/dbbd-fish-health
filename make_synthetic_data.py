@@ -1,7 +1,7 @@
 """
 Self-test helper: writes a tiny FAKE dataset with the same folder layout as the two public
-datasets, so the whole kit can be run end-to-end in a few minutes before the real data is
-downloaded.  NEVER use numbers produced from this data in the paper.
+datasets, so the whole can be run end-to-end in a few minutes before the real data is
+downloaded. 
 
   python make_synthetic_data.py --out /tmp/fake
 """
