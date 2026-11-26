@@ -1,0 +1,7 @@
+tensorflow>=2.16        # Keras 3; Colab already has it
+numpy
+pillow
+scikit-learn
+matplotlib
+# optional: crop training images with your deployed DBBD-YOLO detector (prepare_data.py --detector)
+# ultralytics
