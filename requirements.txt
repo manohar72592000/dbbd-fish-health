@@ -3,5 +3,4 @@ numpy
 pillow
 scikit-learn
 matplotlib
-# optional: crop training images with your deployed DBBD-YOLO detector (prepare_data.py --detector)
-# ultralytics
+
