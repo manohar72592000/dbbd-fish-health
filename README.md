@@ -2,7 +2,7 @@
 
 Code for the paper
 
-> Manohar K and Santhakumar Mohan, "Joint Fish Species Identification and Health Screening Directly from DBBD-Compressed Images," submitted to SURAS 2027 – Symposium on Underwater Robotics and Autonomous Systems.
+> Manohar K and Santhakumar Mohan, "Fish Health Screening Survives Image Compression Better Than Species Identification: A Reconstruction-Free Study," submitted to SURAS 2027 – Symposium on Underwater Robotics and Autonomous Systems.
 
 A single MobileNetV2 with two heads (12 freshwater species; healthy / bacterial gill disease / bacterial
 red disease / EUS) is trained directly on images compressed by a deterministic binary block-diagonal
